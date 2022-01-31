@@ -28,8 +28,15 @@ Your task is to add the code needed to make the buttons render the `<RGB />` com
 
 ### Rubric
 
-| Task | Points |
-| --   | --     |
-| Use `useParams` to grab the r,g,b values from URL | 4   |
-| Use the `Switch` and `Route` Components to render the `RGB` Component | 4   |
-| Successfully Deploy To Netlify | 2   |
+| Task                                                                  | Points |
+| --------------------------------------------------------------------- | ------ |
+| Use `useParams` to grab the r,g,b values from URL                     | 4      |
+| Use the `Switch` and `Route` Components to render the `RGB` Component | 4      |
+| Successfully Deploy To Netlify                                        | 2      |
+
+## Game plan
+
+    [] route to URL
+    [] Switch to display what should be displayed
+    [] useParamrs to get the values for RGB
+    []
